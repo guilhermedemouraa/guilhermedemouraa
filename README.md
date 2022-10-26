@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guilherme De Moura Araujo (@guilhermedemouraa) or simply Gui. Currently, I am a Ph.D. candidate in Biosystems Engineering at the University of California, Davis
+- 👋 Hi, I’m Guilherme De Moura Araujo (@guilhermedemouraa) or simply Gui. Currently, I am a postdoc in Biosystems Engineering at the University of California, Davis
 - 👀 I’m interested in robotics and automation in agriculture, digital agriculture, agricultural safety & health, and autonomous vehicles
 - 🌱 I’m currently learning computer vision and AI to improve ATV safety systems
 - 📫 How to reach me: gdemoura@ucdavis.edu
